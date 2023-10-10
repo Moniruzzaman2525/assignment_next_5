@@ -1,0 +1,557 @@
+[
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paula_Hawkins_G%C3%B6teborg_Book_Fair_2015.jpg/330px-Paula_Hawkins_G%C3%B6teborg_Book_Fair_2015.jpg",
+    "genre": "Thriller",
+    "user": {
+      "email": "habiburnobel@gmail.com"
+    },
+    "publication_date": "2022-01-13",
+    "reviews": [
+      { "name": "reader123", "rating": 4, "review": "Exciting plot twists!" },
+      {
+        "name": "booklover456",
+        "rating": 5,
+        "review": "Couldn't put it down."
+      },
+      {
+        "name": "mysteryfanatic",
+        "rating": 4,
+        "review": "Keeps you guessing till the end."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gillian_Flynn_2014_%28cropped%29.jpg/330px-Gillian_Flynn_2014_%28cropped%29.jpg",
+    "genre": "Thriller",
+    "user": {
+      "email": "rokaiahfardous@gmail.com"
+    },
+    "publication_date": "2012-01-01",
+    "reviews": [
+      {
+        "name": "fantasylover22",
+        "rating": 5,
+        "review": "Imaginative world-building."
+      },
+      {
+        "name": "adventureseeker",
+        "rating": 4,
+        "review": "Epic journey that captivates."
+      },
+      {
+        "name": "magicenthusiast",
+        "rating": 5,
+        "review": "Spells and sorcery done right."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gone_Girl_%28Flynn_novel%29.jpg"
+  },
+  {
+    "title": "The Maid",
+    "author": "Nita Prose",
+    "author_image": "https://www.nitaprose.com/images/Nita-Prose-bio-v3.jpg",
+    "genre": "Thriller",
+    "user": {
+      "email": "habiburnobel@gmail.com"
+    },
+    "publication_date": "2022-01-01",
+    "reviews": [
+      {
+        "name": "romanticatheart",
+        "rating": 5,
+        "review": "Swoon-worthy romance."
+      },
+      {
+        "name": "bookishcupid",
+        "rating": 4,
+        "review": "A feel-good love story."
+      },
+      {
+        "name": "heartstrings",
+        "rating": 5,
+        "review": "Touched my emotions deeply."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/7/7d/The_Maid_-_A_Novel_%28book_cover%29.jpg"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "author_image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHrC31iCZ-c9yZ-h9cnJvt-NGUm88FBDf4P_BIzvV8zTjG_Uzo",
+    "genre": "Thriller",
+    "user": {
+      "email": "rokaiahfardous@gmail.com"
+    },
+    "publication_date": "2019-02-05",
+    "reviews": [
+      {
+        "name": "scifigeek",
+        "rating": 5,
+        "review": "Intriguing concepts of space exploration."
+      },
+      {
+        "name": "outerspacetraveler",
+        "rating": 4,
+        "review": "Thought-provoking and well-paced."
+      },
+      {
+        "name": "futurebound",
+        "rating": 4,
+        "review": "An adventure beyond the stars."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Silent_Patient_early_2019_UK_edition.png"
+  },
+  {
+    "title": "Lock Every Door",
+    "author": "Riley Sager",
+    "author_image": "https://pbs.twimg.com/profile_images/1448840695201116167/Akqvwl2Z_400x400.jpg",
+    "genre": "Thriller",
+    "user": {
+      "email": "dev.habiburnobel@gmail.com"
+    },
+    "publication_date": "2023-04-10",
+    "reviews": [
+      {
+        "name": "adventureenthusiast",
+        "rating": 5,
+        "review": "Thrilling escapades at every turn."
+      },
+      {
+        "name": "explorer123",
+        "rating": 4,
+        "review": "Makes me want to travel the world."
+      },
+      {
+        "name": "daringreader",
+        "rating": 5,
+        "review": "A journey that ignites the soul."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/5/5e/Lock_Every_Door.jpg"
+  },
+
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg",
+    "genre": "Romance",
+    "user": {
+      "email": "dev.habiburnobel@gmail.com"
+    },
+    "publication_date": "1996-10-01",
+    "reviews": [
+      {
+        "name": "horroraddict",
+        "rating": 5,
+        "review": "Chilling and spine-tingling."
+      },
+      {
+        "name": "nightmareseeker",
+        "rating": 4,
+        "review": "Kept me up all night."
+      },
+      {
+        "name": "braveheart",
+        "rating": 3,
+        "review": "A haunting tale of fear."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/d/d9/The_Notebook_Cover.jpg"
+  },
+  {
+    "title": "Call Me by Your Name",
+    "author": "André Aciman",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Andr%C3%A9_Aciman_Call_Me_By_Your_Name_Press_Conference_Berlinale_2017_%28cropped%29.jpg/330px-Andr%C3%A9_Aciman_Call_Me_By_Your_Name_Press_Conference_Berlinale_2017_%28cropped%29.jpg",
+    "genre": "Romance",
+    "user": {
+      "email": "nobel@apurbatech.com"
+    },
+    "publication_date": "2007-05-12",
+    "reviews": [
+      {
+        "name": "historylover",
+        "rating": 5,
+        "review": "Brings the past to life."
+      },
+      {
+        "name": "historicaldreamer",
+        "rating": 4,
+        "review": "Immersive and well-researched."
+      },
+      {
+        "name": "timevoyager",
+        "rating": 5,
+        "review": "A symphony of history and imagination."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/7/77/Call_Me_By_Your_Name%2C_2007_book_cover.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "author_image": "https://i.guim.co.uk/img/media/9ba4e8bd3f373100916450159bb79b84ba428230/577_668_6039_3623/master/6039.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=15e254aca7ffc715ba3e01825b7fe58b",
+    "genre": "Romance",
+    "user": {
+      "email": "dev.habiburnobel@gmail.com"
+    },
+    "publication_date": "2012-01-05",
+    "reviews": [
+      {
+        "name": "storybookfan",
+        "rating": 5,
+        "review": "Magical and heartwarming."
+      },
+      {
+        "name": "kidreader",
+        "rating": 4,
+        "review": "A delightful adventure for young minds."
+      },
+      {
+        "name": "imaginationwonder",
+        "rating": 5,
+        "review": "Captivated my child's imagination."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/e/e0/Me_Before_You.jpg"
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "author": "E. L. James",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/E._L._James_-_2019_%28cropped%29.jpg/330px-E._L._James_-_2019_%28cropped%29.jpg",
+    "genre": "Romance",
+    "user": {
+      "email": "nobel@apurbatech.com"
+    },
+    "publication_date": "2011-06-20",
+    "reviews": [
+      {
+        "name": "foodlover",
+        "rating": 5,
+        "review": "Delicious recipes with clear instructions."
+      },
+      {
+        "name": "chefatheart",
+        "rating": 4,
+        "review": "A culinary journey to savor."
+      },
+      {
+        "name": "kitchenexplorer",
+        "rating": 5,
+        "review": "Elevated my cooking skills."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/5/5e/50ShadesofGreyCoverArt.jpg"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stephenie_Meyer_by_Gage_Skidmore.jpg/330px-Stephenie_Meyer_by_Gage_Skidmore.jpg",
+    "genre": "Romance",
+    "user": {
+      "email": "rokaiahfardous@gmail.com"
+    },
+    "publication_date": "2005-10-05",
+    "reviews": [
+      {
+        "name": "mindfulreader",
+        "rating": 5,
+        "review": "Life-changing insights."
+      },
+      {
+        "name": "selfcareenthusiast",
+        "rating": 4,
+        "review": "Practical guide to inner peace."
+      },
+      {
+        "name": "balanceseeker",
+        "rating": 5,
+        "review": "A journey to a calmer self."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/1/1d/Twilightbook.jpg"
+  },
+
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Agatha_Christie.png/330px-Agatha_Christie.png",
+    "genre": "Mystery",
+    "user": {
+      "email": "nobel@apurbatech.com"
+    },
+    "publication_date": "1934-01-01",
+    "reviews": [
+      { "name": "scifiaddict", "rating": 5, "review": "Epic space odyssey." },
+      {
+        "name": "cosmicdreamer",
+        "rating": 4,
+        "review": "Mind-bending concepts of the universe."
+      },
+      {
+        "name": "adventuresinspace",
+        "rating": 5,
+        "review": "To infinity and beyond!"
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/c/c0/Murder_on_the_Orient_Express_First_Edition_Cover_1934.jpg"
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Young_Daphne_du_Maurier_restored_bw.jpg/330px-Young_Daphne_du_Maurier_restored_bw.jpg",
+    "genre": "Mystery",
+    "user": {
+      "email": "dev.habiburnobel@gmail.com"
+    },
+    "publication_date": "1938-08-05",
+    "reviews": [
+      {
+        "name": "poetrylover",
+        "rating": 5,
+        "review": "Emotional and beautifully written."
+      },
+      {
+        "name": "wordsmith",
+        "rating": 4,
+        "review": "Touches the soul with every verse."
+      },
+      {
+        "name": "expressiveheart",
+        "rating": 5,
+        "review": "A tapestry of feelings and words."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rebecca-FE.jpg"
+  },
+  {
+    "title": "The Sweetness at the Bottom of the Pie",
+    "author": "Alan Bradley",
+    "author_image": "https://maredilibri.it/festival//immagini/alan_bradley.jpg",
+    "genre": "Mystery",
+    "user": {
+      "email": "nobel@apurbatech.com"
+    },
+    "publication_date": "2009-04-28",
+    "reviews": [
+      {
+        "name": "thrillerenthusiast",
+        "rating": 5,
+        "review": "Keeps you on the edge of your seat."
+      },
+      {
+        "name": "suspenseaddict",
+        "rating": 4,
+        "review": "Twists and turns that surprise."
+      },
+      {
+        "name": "page-turner",
+        "rating": 5,
+        "review": "An adrenaline-pumping ride."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/1/1a/The_Sweetness_at_the_Bottom_of_the_Pie.jpg"
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wilkie_Collins_by_Cundall%2C_Downes_%26_Co_%28cropped%29.jpg/300px-Wilkie_Collins_by_Cundall%2C_Downes_%26_Co_%28cropped%29.jpg",
+    "genre": "Mystery",
+    "user": {
+      "email": "dev.habiburnobel@gmail.com"
+    },
+    "publication_date": "1860-08-25",
+    "reviews": [
+      {
+        "name": "naturelover",
+        "rating": 5,
+        "review": "A peaceful escape into nature."
+      },
+      {
+        "name": "greenthumb",
+        "rating": 4,
+        "review": "Inspiring and tranquil."
+      },
+      {
+        "name": "serenereader",
+        "rating": 5,
+        "review": "Refreshes the spirit like a walk in the garden."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Woman_In_White_-_Cover.jpg/330px-The_Woman_In_White_-_Cover.jpg"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Raymond_Chandler_%28Lady_in_the_Lake_portrait%2C_1943%29.jpg",
+    "genre": "Mystery",
+    "user": {
+      "email": "rokaiahfardous@gmail.com"
+    },
+    "publication_date": "1939-01-01",
+    "reviews": [
+      {
+        "name": "fantasyadventurer",
+        "rating": 5,
+        "review": "A realm of dreams and magic."
+      },
+      {
+        "name": "dreamweaver",
+        "rating": 4,
+        "review": "Unforgettable characters and quests."
+      },
+      {
+        "name": "fantasyreader",
+        "rating": 5,
+        "review": "A captivating journey beyond reality."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/f9/RaymondChandler_TheBigSleep.jpg"
+  },
+
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "author_image": "https://upload.wikimedia.org/wikipedia/en/1/1e/C.s.lewis3.JPG",
+    "genre": "Fantasy",
+    "user": {
+      "email": "rokaiahfardous@gmail.com"
+    },
+    "publication_date": "1950-10-16",
+    "reviews": [
+      {
+        "name": "foodexplorer",
+        "rating": 5,
+        "review": "Delicious exploration of flavors."
+      },
+      {
+        "name": "culinaryartist",
+        "rating": 4,
+        "review": "A cookbook that inspires creativity."
+      },
+      {
+        "name": "tastebuds",
+        "rating": 5,
+        "review": "Elevates everyday cooking to an art."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/8/86/TheLionWitchWardrobe%281stEd%29.jpg"
+  },
+  {
+    "title": "The Last Unicorn",
+    "author": "Peter S. Beagle",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/PeterBeagle.jpg/330px-PeterBeagle.jpg",
+    "genre": "Fantasy",
+    "user": {
+      "email": "habiburnobel@gmail.com"
+    },
+    "publication_date": "1968-09-09",
+    "reviews": [
+      {
+        "name": "hopelessromantic",
+        "rating": 5,
+        "review": "Tugs at the heartstrings."
+      },
+      {
+        "name": "loveconnoisseur",
+        "rating": 4,
+        "review": "A tale of love that endures."
+      },
+      {
+        "name": "romancereader",
+        "rating": 5,
+        "review": "Passion and devotion beautifully portrayed."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/6/6f/Last_unicorn_hb.jpg"
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tomi_Adeyemi%2C_2022.jpg/375px-Tomi_Adeyemi%2C_2022.jpg",
+    "genre": "Fantasy",
+    "user": {
+      "email": "rokaiahfardous@gmail.com"
+    },
+    "publication_date": "2018-03-06",
+    "reviews": [
+      {
+        "name": "historybuff",
+        "rating": 5,
+        "review": "An immersive journey through time."
+      },
+      {
+        "name": "timelesswanderer",
+        "rating": 4,
+        "review": "Traces the paths of historical figures."
+      },
+      {
+        "name": "pastexplorer",
+        "rating": 5,
+        "review": "A walk through history's corridors."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/en/2/2b/Children_of_Blood_and_Bone.jpg"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "author_image": "https://pbs.twimg.com/profile_images/1611444577684303873/keZezJ_n_400x400.jpg",
+    "genre": "Fantasy",
+    "user": {
+      "email": "habiburnobel@gmail.com"
+    },
+    "publication_date": "2010-08-31",
+    "reviews": [
+      {
+        "name": "scififanatic",
+        "rating": 5,
+        "review": "A stellar journey across the cosmos."
+      },
+      {
+        "name": "spaceenthusiast",
+        "rating": 4,
+        "review": "Fascinating concepts of space-time."
+      },
+      {
+        "name": "intergalacticreader",
+        "rating": 5,
+        "review": "Expands the horizons of imagination."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandon_Sanderson_-_Lucca_Comics_%26_Games_2016.jpg/330px-Brandon_Sanderson_-_Lucca_Comics_%26_Games_2016.jpg"
+  },
+  {
+    "title": "The Once and Future King",
+    "author": "T. H. White",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/White-in-Boston-CollegeII.jpg/330px-White-in-Boston-CollegeII.jpg",
+    "genre": "Fantasy",
+    "user": {
+      "email": "nobel@apurbatech.com"
+    },
+    "publication_date": "1958-10-15",
+    "reviews": [
+      {
+        "name": "dramalover",
+        "rating": 5,
+        "review": "A tale of emotions and secrets."
+      },
+      {
+        "name": "heartfeltreader",
+        "rating": 4,
+        "review": "Touches the heart in unexpected ways."
+      },
+      {
+        "name": "intensedrama",
+        "rating": 5,
+        "review": "A poignant exploration of life's twists."
+      }
+    ],
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Once-and-Future-King-FC.jpg"
+  }
+]
